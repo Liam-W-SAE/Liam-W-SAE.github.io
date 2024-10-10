@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Liam Dev Portfolio
 
 # Your name to show in the footer
-author: Some Person
+author: Liam Warner
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,6 +21,7 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+  Games: "Games"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
